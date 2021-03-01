@@ -48,5 +48,5 @@ end of day, start of day, intraday, capital market, trading system, financial so
  
 
 You can find more details at
-https://finpricing.com/lib/IrCurveIntroduction.html
+https://finpricing.com/faq.html
 
