@@ -46,7 +46,8 @@ end of day, start of day, intraday, capital market, trading system, financial so
 
 •	The P&L distribution based on asset classes is shown in the Graph tab of the main window.
  
+References:
 
-You can find more details at
-https://finpricing.com/faq.html
+https://finpricing.com/lib/IrCurveIntroduction.html
+
 
